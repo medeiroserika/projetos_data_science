@@ -11,7 +11,7 @@ Meu portfólio de projetos de Data Science em Python.
 
 
 
-**Background in:** Python, Power BI, SQL.
+**Background in:** Python, Power BI, SQL, Excel.
 
 
 ## Projetos:
