@@ -7,7 +7,7 @@ Meu portfólio de projetos de Data Science em Python.
 </p>
 
 # Erika Medeiros
-<sub>* Graduada em Ciências Contábeis e Analista de Dados. Atua em uma Agência Reguladora, do setor de saneamento básico, na área de regulação econômica e fiscalização financeira. Áreas de maior interesse: regulação econômica, finanças públicas e mercado de capitais.</sub>
+<sub>** Graduada em Ciências Contábeis e Analista de Dados. Atua em uma Agência Reguladora, do setor de saneamento básico, na área de regulação econômica e fiscalização financeira. Áreas de maior interesse: regulação econômica, finanças públicas e mercado de capitais.</sub>
 
 
 
